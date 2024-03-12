@@ -1,0 +1,20 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "mobileToolbarCommands": [
+    "command-palette:open",
+    "editor:undo",
+    "editor:redo",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:cycle-list-checklist",
+    "editor:configure-toolbar",
+    "editor:toggle-keyboard",
+    "editor:context-menu",
+    "editor:set-heading-1",
+    "editor:set-heading-2",
+    "editor:set-heading-3"
+  ]
+}
